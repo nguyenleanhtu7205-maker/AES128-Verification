@@ -1,0 +1,1 @@
+typedef uvm_sequencer #(aes_item) aes_sequencer;
